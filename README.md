@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #C71A36
-<a href="www.google.com" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=#C71A36&logoColor=000000"/></a>
+<a href="www.google.com" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=C71A36&logoColor=000000"/></a>

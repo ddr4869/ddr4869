@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - **Tool**: ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white) ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 
 ## Algorithm
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ddr4869)](https://solved.ac/ddr4869)
